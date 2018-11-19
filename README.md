@@ -1,3 +1,5 @@
-- [天池阿里妈妈广告](https://github.com/classtag/ijcai18-mama-ads-competition)
-- [kaggle criteo ctr](https://github.com/classtag/kaggle_criteo_ctr_challenge)
-- [kaggle home credit](https://github.com/classtag/open-solution-home-credit)
+- [天池阿里妈妈广告](https://github.com/classtag/ijcai18-mama-ads-competition) 
+- [Kaggle Avito Demand Prediction Challenge](https://www.kaggle.com/c/avito-demand-prediction) Top15%
+- [Kaggle Home Credit Default Risk](https://github.com/classtag/open-solution-home-credit) Top24%
+- [kaggle criteo ctr](https://github.com/classtag/kaggle_criteo_ctr_challenge) learn
+
